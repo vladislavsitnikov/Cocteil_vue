@@ -1,14 +1,27 @@
-# vue-project
+# Cocktail Recipes App
 
-This template should help get you started developing with Vue 3 in Vite.
+![Cocktail Recipes App](/src/assets/img/app-screenshot.png)
 
-## Recommended IDE Setup
+## Overview
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+Cocktail Recipes App is a Vue.js application that allows users to explore and discover various cocktail recipes. Users can choose their preferred main ingredient, view cocktails with that ingredient, and explore detailed information about each cocktail.
 
-## Customize configuration
+## Features
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+- **Ingredient Selection:** Choose your main ingredient from a list of available options.
+- **Cocktail Listings:** Explore a list of cocktails based on the selected main ingredient.
+- **Detailed Cocktail View:** View detailed information about each cocktail, including ingredients and instructions.
+- **Random Cocktail Generator:** Discover a random cocktail to try something new.
+
+## Installation
+
+## Clone the repository:
+
+git clone https://github.com/vladislavsitnikov/Cocteil_vue.git
+
+## Navigate to the project folder
+
+cd cocktail-recipes-app
 
 ## Project Setup
 
